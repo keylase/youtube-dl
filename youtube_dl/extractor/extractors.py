@@ -1374,6 +1374,7 @@ from .vyborymos import VyboryMosIE
 from .vzaar import VzaarIE
 from .wakanim import WakanimIE
 from .walla import WallaIE
+from .wasdtv import WasdtvIE
 from .washingtonpost import (
     WashingtonPostIE,
     WashingtonPostArticleIE,
